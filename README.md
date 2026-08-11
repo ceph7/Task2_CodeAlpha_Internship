@@ -53,4 +53,4 @@ IT Student |
 UI/UX Design Intern @CodeAlpha
 
 ## 🏷️ Tags
-`#CodeAlpha` `#UIUXDesign` `#Figma` `#EdTech` `#Internship``
+`#CodeAlpha` `#UIUXDesign` `#Figma` `#EdTech` `#Internship`
